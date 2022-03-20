@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Tuğçe Yalçın</h2>
+    <h4>About Me</h4>
+    <p>Hi, I'm Tuğçe. I'm 22 years and a Software Engineering student at Fırat University. 
+    I'm currently learning PHP, HTML, CSS and JavaScript.</p>
+    <h2>My Favourite Series</h2>
+    <h4>Legend of the Seeker</h4>
+    <p>This series about a seeker who can keep the peace at their world.</p>
+    <p>One of the most intriguing thing that i love, they live in a fantastic world at middle ages.
+    </p>
+</body>
+</html>
